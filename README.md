@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phixmeplease
+- 👀 I’m interested in lua
+- 🌱 I’m currently learning more lua lol
+- 💞️ I’m looking to collaborate on stuff idk
+- 📫 How to reach me call me on discord Lion#3933
