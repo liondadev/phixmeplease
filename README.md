@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @phixmeplease
-- 👀 I’m interested in lua
-- 🌱 I’m currently learning more lua lol
-- 💞️ I’m looking to collaborate on stuff idk
-- 📫 How to reach me call me on discord Lion#3933
+# Phixmeplease
+## AKA liondadev
+
+### Discord
+Lion#3933
+
+### Steam
+https://steamcommunity.com/id/LionDaDev/
+
+### Terms of use for my addons
+Feel free to use and edit them, but you must credit me. Do not redistribute them without my written permission
