@@ -1,11 +1,5 @@
-# Phixmeplease
-## AKA liondadev
+# 👋 Hey there, im Lion!
+Welcome to my profile! Here you can see some of my projects and stuff
 
-### Discord
-Lion#3933
-
-### Steam
-https://steamcommunity.com/id/LionDaDev/
-
-### Terms of use for my addons
-Feel free to use and edit them, but you must credit me. Do not redistribute them without my written permission
+# Social Links
+![Gmodstore](https://www.gmodstore.com/users/lion)
