@@ -7,5 +7,4 @@ Welcome to my profile! Here you can see some of my projects and stuff
 [Discord Server](https://discord.gg/4ED4dfeYGM)
 
 # Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-stats/?username=phixmeplease&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phixmeplease&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phixmeplease&theme=react&show_icons=true" />
