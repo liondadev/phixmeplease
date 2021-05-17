@@ -7,5 +7,5 @@ Welcome to my profile! Here you can see some of my projects and stuff
 [Discord Server](https://discord.gg/4ED4dfeYGM)
 
 # ⚒️ Random Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phixmeplease&theme=react&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phixmeplease&theme=react&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=liondadev&theme=react&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liondadev&theme=react&show_icons=true" />
